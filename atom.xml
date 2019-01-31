@@ -3,11 +3,11 @@
   <title>Iris</title>
   
   <subtitle>humengdie</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="/hblog/atom.xml" rel="self"/>
   
-  <link href="http://humengdie.cn/"/>
+  <link href="http://humengdie.cn/hblog/"/>
   <updated>2015-10-15T16:38:58.000Z</updated>
-  <id>http://humengdie.cn/</id>
+  <id>http://humengdie.cn/hblog/</id>
   
   <author>
     <name>Iris</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Oct-15</title>
-    <link href="http://humengdie.cn/2015/10/15/Oct-15.html"/>
-    <id>http://humengdie.cn/2015/10/15/Oct-15.html</id>
+    <link href="http://humengdie.cn/hblog/2015/10/15/Oct-15.html"/>
+    <id>http://humengdie.cn/hblog/2015/10/15/Oct-15.html</id>
     <published>2015-10-15T12:28:00.000Z</published>
     <updated>2015-10-15T16:38:58.000Z</updated>
     
@@ -32,14 +32,14 @@
     </summary>
     
     
-      <category term="剪纸" scheme="http://humengdie.cn/tags/%E5%89%AA%E7%BA%B8/"/>
+      <category term="剪纸" scheme="http://humengdie.cn/hblog/tags/%E5%89%AA%E7%BA%B8/"/>
     
   </entry>
   
   <entry>
     <title>Oct-12</title>
-    <link href="http://humengdie.cn/2015/10/12/Oct-12.html"/>
-    <id>http://humengdie.cn/2015/10/12/Oct-12.html</id>
+    <link href="http://humengdie.cn/hblog/2015/10/12/Oct-12.html"/>
+    <id>http://humengdie.cn/hblog/2015/10/12/Oct-12.html</id>
     <published>2015-10-12T12:57:00.000Z</published>
     <updated>2015-10-15T16:35:29.000Z</updated>
     
@@ -52,14 +52,14 @@
     </summary>
     
     
-      <category term="素描" scheme="http://humengdie.cn/tags/%E7%B4%A0%E6%8F%8F/"/>
+      <category term="素描" scheme="http://humengdie.cn/hblog/tags/%E7%B4%A0%E6%8F%8F/"/>
     
   </entry>
   
   <entry>
     <title>Sep-06</title>
-    <link href="http://humengdie.cn/2015/09/06/Sep-06.html"/>
-    <id>http://humengdie.cn/2015/09/06/Sep-06.html</id>
+    <link href="http://humengdie.cn/hblog/2015/09/06/Sep-06.html"/>
+    <id>http://humengdie.cn/hblog/2015/09/06/Sep-06.html</id>
     <published>2015-09-06T15:53:00.000Z</published>
     <updated>2015-10-15T16:35:42.000Z</updated>
     
@@ -75,14 +75,14 @@
     </summary>
     
     
-      <category term="素描" scheme="http://humengdie.cn/tags/%E7%B4%A0%E6%8F%8F/"/>
+      <category term="素描" scheme="http://humengdie.cn/hblog/tags/%E7%B4%A0%E6%8F%8F/"/>
     
   </entry>
   
   <entry>
     <title>Sep-03</title>
-    <link href="http://humengdie.cn/2015/09/03/Sep-03.html"/>
-    <id>http://humengdie.cn/2015/09/03/Sep-03.html</id>
+    <link href="http://humengdie.cn/hblog/2015/09/03/Sep-03.html"/>
+    <id>http://humengdie.cn/hblog/2015/09/03/Sep-03.html</id>
     <published>2015-09-03T04:24:00.000Z</published>
     <updated>2015-10-15T16:35:42.000Z</updated>
     
@@ -98,14 +98,14 @@
     </summary>
     
     
-      <category term="素描" scheme="http://humengdie.cn/tags/%E7%B4%A0%E6%8F%8F/"/>
+      <category term="素描" scheme="http://humengdie.cn/hblog/tags/%E7%B4%A0%E6%8F%8F/"/>
     
   </entry>
   
   <entry>
     <title>August-19</title>
-    <link href="http://humengdie.cn/2015/08/19/August-19.html"/>
-    <id>http://humengdie.cn/2015/08/19/August-19.html</id>
+    <link href="http://humengdie.cn/hblog/2015/08/19/August-19.html"/>
+    <id>http://humengdie.cn/hblog/2015/08/19/August-19.html</id>
     <published>2015-08-18T17:04:00.000Z</published>
     <updated>2015-10-15T16:35:42.000Z</updated>
     
@@ -118,14 +118,14 @@
     </summary>
     
     
-      <category term="水彩" scheme="http://humengdie.cn/tags/%E6%B0%B4%E5%BD%A9/"/>
+      <category term="水彩" scheme="http://humengdie.cn/hblog/tags/%E6%B0%B4%E5%BD%A9/"/>
     
   </entry>
   
   <entry>
     <title>August-04</title>
-    <link href="http://humengdie.cn/2015/08/04/August-04.html"/>
-    <id>http://humengdie.cn/2015/08/04/August-04.html</id>
+    <link href="http://humengdie.cn/hblog/2015/08/04/August-04.html"/>
+    <id>http://humengdie.cn/hblog/2015/08/04/August-04.html</id>
     <published>2015-08-04T15:00:00.000Z</published>
     <updated>2015-10-15T16:35:42.000Z</updated>
     
@@ -138,18 +138,18 @@
     </summary>
     
     
-      <category term="水彩" scheme="http://humengdie.cn/tags/%E6%B0%B4%E5%BD%A9/"/>
+      <category term="水彩" scheme="http://humengdie.cn/hblog/tags/%E6%B0%B4%E5%BD%A9/"/>
     
-      <category term="A" scheme="http://humengdie.cn/tags/A/"/>
+      <category term="A" scheme="http://humengdie.cn/hblog/tags/A/"/>
     
-      <category term="B" scheme="http://humengdie.cn/tags/B/"/>
+      <category term="B" scheme="http://humengdie.cn/hblog/tags/B/"/>
     
   </entry>
   
   <entry>
     <title>August-02</title>
-    <link href="http://humengdie.cn/2015/08/02/August-02.html"/>
-    <id>http://humengdie.cn/2015/08/02/August-02.html</id>
+    <link href="http://humengdie.cn/hblog/2015/08/02/August-02.html"/>
+    <id>http://humengdie.cn/hblog/2015/08/02/August-02.html</id>
     <published>2015-08-02T15:00:00.000Z</published>
     <updated>2015-10-15T16:35:42.000Z</updated>
     
@@ -165,14 +165,14 @@
     </summary>
     
     
-      <category term="水彩" scheme="http://humengdie.cn/tags/%E6%B0%B4%E5%BD%A9/"/>
+      <category term="水彩" scheme="http://humengdie.cn/hblog/tags/%E6%B0%B4%E5%BD%A9/"/>
     
   </entry>
   
   <entry>
     <title>July</title>
-    <link href="http://humengdie.cn/2015/07/24/July.html"/>
-    <id>http://humengdie.cn/2015/07/24/July.html</id>
+    <link href="http://humengdie.cn/hblog/2015/07/24/July.html"/>
+    <id>http://humengdie.cn/hblog/2015/07/24/July.html</id>
     <published>2015-07-24T15:47:48.000Z</published>
     <updated>2015-10-15T16:35:42.000Z</updated>
     
@@ -188,7 +188,7 @@
     </summary>
     
     
-      <category term="水彩" scheme="http://humengdie.cn/tags/%E6%B0%B4%E5%BD%A9/"/>
+      <category term="水彩" scheme="http://humengdie.cn/hblog/tags/%E6%B0%B4%E5%BD%A9/"/>
     
   </entry>
   
